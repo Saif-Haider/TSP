@@ -1,2 +1,2 @@
 # TSP
-TSP bruteforce python
+Travelling Salesman Problem bruteforce implementation python2
